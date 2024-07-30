@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "normal_prefix": "/",
+  "color": "#88B4F5",
+  "err_color": "RED",
+  "err_channel": ""
+}

@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "stage cleared",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "0.0.9",
